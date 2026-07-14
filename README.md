@@ -60,12 +60,12 @@ pkg install python git
 
 ### 2. Clone Repository
 ```bash
-git clone https://github.com/adinsaja726-netizen/Chat-tele.git
-cd Chat-tele
+git clone https://github.com/andimuhsyahriadin-cmyk/bot-chat.git
+cd bot-chat
 ```
 
 ### 3. Install Requirements
-```bash
+```bashhttps://github.com/andimuhsyahriadin-cmyk/bot-chat.git
 pip install -r requirements.txt
 ```
 
